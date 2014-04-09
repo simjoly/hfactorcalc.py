@@ -25,7 +25,7 @@ Note
 Example
 -------
 
-$ python3 hfactorcalc.py -q test_list.csv
+    $python3 hfactorcalc.py -q test_list.csv
 
 Credits
 -------
