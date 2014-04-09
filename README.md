@@ -5,7 +5,7 @@ hfactorcalc.py is a Python 3 module that calculates h-factors from a list of pub
 
 Any feedback is welcome!
 
-email: joly.simon@gmail.com<br/>
+joly.simon@gmail.com<br/>
 [Twitter](http://twitter.com/simjoly)
 
 Features
@@ -25,7 +25,7 @@ Note
 Example
 -------
 
-$python3 hfactorcalc.py -q test_list.csv
+$ python3 hfactorcalc.py -q test_list.csv
 
 Credits
 -------
