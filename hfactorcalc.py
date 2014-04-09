@@ -37,7 +37,6 @@ statusbarlength = 20
 
 # Instantiations
 random.seed();
-print(args.timelag)
 
 # Main script
 with open(args.filename, encoding='utf-8', newline='') as csvfile:
