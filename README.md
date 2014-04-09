@@ -4,7 +4,8 @@ h-factor calculator
 hfactorcalc.py is a Python 3 module that calculates h-factors from a list of publication titles (or DOI) by quering Google Scholar information.
 
 Any feedback is welcome!
-email: joly.simon@gmail.com
+
+email: joly.simon@gmail.com<br/>
 [Twitter](http://twitter.com/simjoly)
 
 Features
@@ -34,6 +35,6 @@ hfactorcalc.py uses the very useful scholar.py script by Christian Kreibich (git
 License
 -------
 
-Copyright (c) 2014, Simon Joly
-All rights reserved.
+Copyright (c) 2014, Simon Joly<br/>
+All rights reserved.<br/>
 hfactorcalc.py is using the standard [BSD license](http://opensource.org/licenses/BSD-2-Clause).
